@@ -1004,8 +1004,8 @@
 						"selection":
 						[
 							[
-								4520,
-								4520
+								3830,
+								3830
 							]
 						],
 						"settings":
@@ -1018,7 +1018,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1834.0,
+						"translation.y": 1768.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1601,6 +1601,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"core-acquirer",
+				"~/Workspace/web/project/mcoin/core-acquirer/project.sublime-project"
+			],
 			[
 				"checkou",
 				"~/Workspace/web/project/mcoin/checkout-system/project.sublime-project"
